@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#PDF
+sbornik_zadach_po_programmiroaniyu.pdf
